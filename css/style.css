@@ -98,8 +98,12 @@ footer{
     overflow-y: auto;
 }
   /* visited link */
+  a:link{
+    color:deepskyblue;
+  }
+
   a:visited {
-    color: deepskyblue;
+    color: rgb(0, 145, 194);
   }
   
   /* mouse over link */
