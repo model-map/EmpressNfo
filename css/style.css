@@ -91,6 +91,7 @@ footer{
     border: 1px solid #ffffff70;
     width: 38vw;
     margin-bottom: auto;
+    padding:20px;
 }
   /* visited link */
   a:visited {
@@ -106,3 +107,23 @@ footer{
   a:active {
     color: red;
   } 
+
+@media (max-width: 900px){
+    #header{
+        font-size: 30px;
+    }
+    #games,
+    #bonus{
+        font-size: 25px;
+    }
+    .container,
+    .bonus{
+        width: 90vw;
+        font-size: 15px;
+    }
+    .bonus{
+        padding: 20px;
+        text-align: left;
+
+    }
+}
