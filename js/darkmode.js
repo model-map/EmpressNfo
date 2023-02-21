@@ -21,6 +21,7 @@ logo.addEventListener("click",()=>{
         header.style['border']=`1px solid #00000050`;
         footer.style['border']=`1px solid #00000050`;
         container.style['border']=`1px solid #00000050`;
+        bonus.style['border']=`1px solid #00000050`;
 
         footer.style['color']=`#000`;
         container.style['color']=`#000`;
@@ -41,6 +42,7 @@ logo.addEventListener("click",()=>{
         header.style['background-color']='#333';
         footer.style['background-color']='#333';
         container.style['border']=`1px solid #ffffff50`;
+        bonus.style['border']=`1px solid #ffffff50`;
 
         footer.style['color']=`#fff`;
 
