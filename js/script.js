@@ -87,7 +87,7 @@ for (i=0;i<=games.length-1;i++){
 const bonus= document.querySelector('.bonus');
 
 const bonusTitle=[
-'THE TOP TIER CONTRADICTION & HYPOCRISY OF THE HUMAN RACE',
+'THE TOP TIER CONTRADICTION & HYPOCRISY OF THE HUMAN RACE (removed by Reddit)',
 'Important Message To : r/PiratedGames Moderators & Fitgirl',
 ];
 
