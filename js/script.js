@@ -101,6 +101,6 @@ for (i=0;i<=bonusTitle.length-1;i++){
     link.setAttribute('href',bonusLink[i]);
     link.setAttribute('target','_blank');
     link.setAttribute('style','text-decoration: none');
-    link.textContent=`${bonusTitle[i]}`;
+    link.textContent=`* ${bonusTitle[i]}`;
     bonus.appendChild(link);
 }
