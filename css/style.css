@@ -85,6 +85,13 @@ footer{
 
     margin-bottom: auto;
 }
+
+.bonus{
+    height:15vh;
+    border: 1px solid #ffffff70;
+    width: 38vw;
+    margin-bottom: auto;
+}
   /* visited link */
   a:visited {
     color: deepskyblue;
