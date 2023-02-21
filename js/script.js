@@ -76,6 +76,7 @@ for (i=0;i<=games.length-1;i++){
     const link=document.createElement('a');
     link.setAttribute('href',nfoLinks[i]);
     link.setAttribute('target','_blank');
+    link.setAttribute('style','text-decoration: none');
     if (games.length-i<=9) link.textContent=`0${games.length-i} ${games[i]}`;
     else link.textContent=`${games.length-i} ${games[i]}`;
     container.appendChild(link);

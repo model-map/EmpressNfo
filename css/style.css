@@ -11,8 +11,8 @@ img{
 
 body{
     font-family: 'VT323','Press Start 2P', monospace;
-    background-color: #F1ECE4;
-    color: #000;
+    background-color: #141518;
+    color: #fff;
 
     height: 100vh;
     width: 100vw;
@@ -40,6 +40,17 @@ body{
     font-size: 40px;
 }
 
+.github,
+#githubLink,
+#githubLogo{
+    color: #fff;
+    text-decoration: none;
+}
+
+#githubLogo{
+    filter: invert(1);
+}
+
 header,
 footer{
     display: flex;
@@ -47,8 +58,8 @@ footer{
     align-items: center;
     gap: 10px;
 
-    background-color: #dfd2c0;
-    border: 1px solid #00000050;
+    background-color: #333;
+    border: none;
     width: 100vw;
 }
 
@@ -69,8 +80,22 @@ footer{
     overflow-y: auto;
     height: 60vh;
 
-    border: 1px solid #00000070;
+    border: 1px solid #ffffff70;
     padding: 20px;
 
     margin-bottom: auto;
 }
+  /* visited link */
+  a:visited {
+    color: deepskyblue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: red;
+  } 
