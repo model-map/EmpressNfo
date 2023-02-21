@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+img{
+    height:2.5vh;
+    width: auto;
+}
+
+body{
+    font-family: 'VT323','Press Start 2P', monospace;
+    background-color: #F1ECE4;
+    color: #000;
+
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+
+    font-size: 25px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#logo{
+    height: 8vh;
+    width: auto;
+}
+
+#header{
+    font-size: 48px;
+}
+
+#games{
+    font-size: 40px;
+}
+
+header,
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    background-color: #dfd2c0;
+    border: 1px solid #00000050;
+    width: 100vw;
+}
+
+header{
+    height: 6.5vh;
+    margin-bottom: auto;
+}
+
+footer{
+    font-family: monospace;
+    height: 5vh;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    overflow-y: auto;
+    height: 60vh;
+
+    border: 1px solid #00000070;
+    padding: 20px;
+
+    margin-bottom: auto;
+}

@@ -1,2 +1,3 @@
-# EmpressNfo
-An index of Empress' NFO collections.
+# Empress NFO Emporium
+A collection of Empress' NFOs.
+
