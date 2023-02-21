@@ -81,3 +81,26 @@ for (i=0;i<=games.length-1;i++){
     else link.textContent=`${games.length-i} ${games[i]}`;
     container.appendChild(link);
 }
+
+// BONUS SECTION
+
+const bonus= document.querySelector('.bonus');
+
+const bonusTitle=[
+'THE TOP TIER CONTRADICTION & HYPOCRISY OF THE HUMAN RACE',
+'Important Message To : r/PiratedGames Moderators & Fitgirl',
+];
+
+const bonusLink=[
+    'https://web.archive.org/web/20230221094226/https://old.reddit.com/r/EmpressEvolution/comments/117ywff/the_top_tier_contradiction_hypocrisy_of_the_human/',
+    'https://web.archive.org/web/20230220225629/https://old.reddit.com/r/EmpressEvolution/comments/117e8tz/important_message_to_rpiratedgames_moderators/',
+]
+
+for (i=0;i<=bonusTitle.length-1;i++){
+    const link=document.createElement('a');
+    link.setAttribute('href',bonusLink[i]);
+    link.setAttribute('target','_blank');
+    link.setAttribute('style','text-decoration: none');
+    link.textContent=`${bonusTitle[i]}`;
+    bonus.appendChild(link);
+}

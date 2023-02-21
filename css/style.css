@@ -92,6 +92,9 @@ footer{
     width: 38vw;
     margin-bottom: auto;
     padding:20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
   /* visited link */
   a:visited {
