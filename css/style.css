@@ -78,7 +78,7 @@ footer{
     flex-direction: column;
     gap: 5px;
     overflow-y: auto;
-    height: 60vh;
+    height: 50vh;
 
     border: 1px solid #ffffff70;
     padding: 20px;
@@ -87,7 +87,7 @@ footer{
 }
 
 .bonus{
-    height:15vh;
+    height:25vh;
     border: 1px solid #ffffff70;
     width: 38vw;
     margin-bottom: auto;
