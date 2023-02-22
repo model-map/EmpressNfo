@@ -87,11 +87,15 @@ for (i=0;i<=games.length-1;i++){
 const bonus= document.querySelector('.bonus');
 
 const bonusTitle=[
+    'FUCK-REDDIT-02-22',
+    'ANTI-WOKE RESPONSES REVEAL 02-21',
 'THE TOP TIER CONTRADICTION & HYPOCRISY OF THE HUMAN RACE (removed by Reddit)',
 'Important Message To : r/PiratedGames Moderators & Fitgirl',
 ];
 
 const bonusLink=[
+    'https://web.archive.org/web/20230222032852/https://telegra.ph/FUCK-REDDIT-02-22',
+    'https://web.archive.org/web/20230222032715/https://telegra.ph/ANTI-WOKE-RESPONSES-REVEAL-02-21',
     'https://web.archive.org/web/20230221094226/https://old.reddit.com/r/EmpressEvolution/comments/117ywff/the_top_tier_contradiction_hypocrisy_of_the_human/',
     'https://web.archive.org/web/20230220225629/https://old.reddit.com/r/EmpressEvolution/comments/117e8tz/important_message_to_rpiratedgames_moderators/',
 ]
