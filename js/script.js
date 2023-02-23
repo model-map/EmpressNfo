@@ -93,6 +93,7 @@ const bonusTitle=[
     'ANTI-WOKE RESPONSES REVEAL 02-21',
 'THE TOP TIER CONTRADICTION & HYPOCRISY OF THE HUMAN RACE (removed by Reddit)',
 'Important Message To : r/PiratedGames Moderators & Fitgirl',
+'[Digital Piracy] The rise of EMPRESS - How one woman turned the pirate underworld on its head, waged a solo war against the entire game industry (and won), went mad with power, started a messianic cult based on high school-level philosophy, and faked her own arrest to spite her rivals and haters'
 ];
 
 const bonusLink=[
@@ -100,6 +101,7 @@ const bonusLink=[
     'https://web.archive.org/web/20230222032715/https://telegra.ph/ANTI-WOKE-RESPONSES-REVEAL-02-21',
     'https://web.archive.org/web/20230221094226/https://old.reddit.com/r/EmpressEvolution/comments/117ywff/the_top_tier_contradiction_hypocrisy_of_the_human/',
     'https://web.archive.org/web/20230220225629/https://old.reddit.com/r/EmpressEvolution/comments/117e8tz/important_message_to_rpiratedgames_moderators/',
+    'https://web.archive.org/web/20230223114700/https://old.reddit.com/r/HobbyDrama/comments/rowk83/digital_piracy_the_rise_of_empress_how_one_woman/'
 ]
 
 for (i=0;i<=bonusTitle.length-1;i++){
