@@ -1,4 +1,5 @@
 const games=[
+    'Hogwarts.Legacy.Deluxe.Edition-EMPRESS',
     'Monster.Hunter.Rise.Sunbreak-EMPRESS',
 'Dragon.Ball.FighterZ.Android.21-EMPRESS',
 'Maneater-EMPRESS',
@@ -35,6 +36,7 @@ const games=[
 ]
 
 const nfoLinks=[
+    'https://nfomation.net/info/1677131115.EMPRESS.nfo',
     'https://nfomation.net/info/1676962149.EMPRESS.nfo',
 'https://nfomation.net/info/1676962178.EMPRESS.nfo',
 'https://nfomation.net/info/1676962191.EMPRESS.nfo',
