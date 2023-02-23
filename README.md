@@ -6,6 +6,8 @@ The purpose of this project is to archive Empress' NFO collections and notable p
 
 The developer(s) of this project in no way support targeted harassment of any individual or group under any circumstances. Please be mindful of behaving yourself.
 
+The developer(s) also do not endorse Piracy in any form.
+
 # # How to use:
 
 Head over to https://model-map.github.io/EmpressNfo/ to begin
