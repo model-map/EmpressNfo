@@ -101,9 +101,9 @@ const bonusLink=[
     'https://web.archive.org/web/20230222032852/https://telegra.ph/FUCK-REDDIT-02-22',
     'https://web.archive.org/web/20230222032715/https://telegra.ph/ANTI-WOKE-RESPONSES-REVEAL-02-21',
     'https://web.archive.org/web/20230221135823/https://www.reddit.com/r/EmpressEvolution/comments/117ywff/the_top_tier_contradiction_hypocrisy_of_the_human/',
-    'https://web.archive.org/web/20230220225629/https://old.reddit.com/r/EmpressEvolution/comments/117e8tz/important_message_to_rpiratedgames_moderators/',
-    'https://web.archive.org/web/20210227191727/https://old.reddit.com/r/CrackWatch/comments/lqs91b/finally_caught_by_the_police_goodjob_everyone/',
-    'https://web.archive.org/web/20211226221641/https://old.reddit.com/r/HobbyDrama/comments/rowk83/digital_piracy_the_rise_of_empress_how_one_woman/'
+    'https://web.archive.org/web/20230220225629/https://www.reddit.com/r/EmpressEvolution/comments/117e8tz/important_message_to_rpiratedgames_moderators/',
+    'https://www.reddit.com/r/CrackWatch/comments/lqs91b/finally_caught_by_the_police_goodjob_everyone/',
+    'https://www.reddit.com/r/HobbyDrama/comments/rowk83/digital_piracy_the_rise_of_empress_how_one_woman/'
 ]
 
 for (i=0;i<=bonusTitle.length-1;i++){
