@@ -2,9 +2,9 @@
 A collection of Empress' NFOs.
 
 # Disclaimer
-## The purpose of this project is to archive Empress' NFO collections and notable posts.
-## The intent is to preserve the writings and thoughts of one of the most controversial figure to come out of the Warez scene.
-# The developer(s) of this project in no way support targeted harassment of any individual or group under any circumstances. Please be mindful of behaving yourself.
+The purpose of this project is to archive Empress' NFO collections and notable posts. The intent is to preserve the writings and thoughts of one of the most controversial figure to come out of the Warez scene.
+
+The developer(s) of this project in no way support targeted harassment of any individual or group under any circumstances. Please be mindful of behaving yourself.
 
 # # How to use:
 
