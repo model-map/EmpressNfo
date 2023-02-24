@@ -89,6 +89,7 @@ for (i=0;i<=games.length-1;i++){
 const bonus= document.querySelector('.bonus');
 
 const bonusTitle=[
+    'WIRED.com - The Woman Bulldozing Video Games’ Toughest DRM',
     'FUCK-REDDIT-02-22',
     'ANTI-WOKE RESPONSES REVEAL 02-21',
 'THE TOP TIER CONTRADICTION & HYPOCRISY OF THE HUMAN RACE (removed by Reddit)',
@@ -98,6 +99,7 @@ const bonusTitle=[
 ];
 
 const bonusLink=[
+    'https://www.wired.com/story/empress-drm-cracking-denuvo-video-game-piracy/',
     'https://web.archive.org/web/20230222032852/https://telegra.ph/FUCK-REDDIT-02-22',
     'https://web.archive.org/web/20230222032715/https://telegra.ph/ANTI-WOKE-RESPONSES-REVEAL-02-21',
     'https://web.archive.org/web/20230221135823/https://www.reddit.com/r/EmpressEvolution/comments/117ywff/the_top_tier_contradiction_hypocrisy_of_the_human/',
