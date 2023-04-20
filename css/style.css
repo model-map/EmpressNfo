@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
 
-*{
+* {
     box-sizing: border-box;
 }
 
-img{
-    height:2.5vh;
+img {
+    height: 2.5vh;
     width: auto;
 }
 
-body{
-    font-family: 'VT323','Press Start 2P', monospace;
+body {
+    font-family: 'VT323', 'Press Start 2P', monospace;
     background-color: #141518;
     color: #fff;
 
@@ -20,39 +20,39 @@ body{
     padding: 0;
 
     font-size: 25px;
-    
+
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
 }
 
-#logo{
+#logo {
     height: 8vh;
     width: auto;
 }
 
-#header{
+#header {
     font-size: 48px;
 }
 
-#games{
+#games {
     font-size: 40px;
 }
 
 .github,
 #githubLink,
-#githubLogo{
+#githubLogo {
     color: #fff;
     text-decoration: none;
 }
 
-#githubLogo{
+#githubLogo {
     filter: invert(1);
 }
 
 header,
-footer{
+footer {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,17 +63,17 @@ footer{
     width: 100vw;
 }
 
-header{
+header {
     height: 6.5vh;
     margin-bottom: auto;
 }
 
-footer{
+footer {
     font-family: monospace;
     height: 5vh;
 }
 
-.container{
+.container {
     display: flex;
     flex-direction: column;
     gap: 5px;
@@ -86,52 +86,51 @@ footer{
     margin-bottom: auto;
 }
 
-.bonus{
-    height:25vh;
+.bonus {
+    height: 25vh;
     border: 1px solid #ffffff70;
     width: 38vw;
     margin-bottom: auto;
-    padding:20px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     gap: 5px;
     overflow-y: auto;
 }
-  /* visited link */
-  a:link{
-    color:deepskyblue;
-  }
+/* visited link */
+a:link {
+    color: deepskyblue;
+}
 
-  a:visited {
+a:visited {
     color: rgb(0, 145, 194);
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: hotpink;
-  }
-  
-  /* selected link */
-  a:active {
-    color: red;
-  } 
+}
 
-@media (max-width: 1200px){
-    #header{
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: red;
+}
+
+@media (max-width: 1200px) {
+    #header {
         font-size: 30px;
     }
     #games,
-    #bonus{
+    #bonus {
         font-size: 25px;
     }
     .container,
-    .bonus{
+    .bonus {
         width: 90vw;
         font-size: 15px;
     }
-    .bonus{
+    .bonus {
         padding: 20px;
         text-align: left;
-
     }
 }
