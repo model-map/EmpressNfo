@@ -1,4 +1,5 @@
 const games = [
+    'Mortal.Kombat.11-EMPRESS',
     'Assassins.Creed.Valhalla.Complete.Edition-EMPRESS',
     'Hogwarts.Legacy.Deluxe.Edition-EMPRESS',
     'Monster.Hunter.Rise.Sunbreak-EMPRESS',
@@ -37,6 +38,7 @@ const games = [
 ];
 
 const nfoLinks = [
+    'https://nfomation.net/info/1682008157.EMPRESS.nfo',
     'https://nfomation.net/info/1681489866.EMPRESS.nfo',
     'https://nfomation.net/info/1677131115.EMPRESS.nfo',
     'https://nfomation.net/info/1676962149.EMPRESS.nfo',
