@@ -1,4 +1,5 @@
 const games = [
+    'Resident.Evil.4.Remake-EMPRESS',
     'Assassins.Creed.Valhalla.Complete.Edition-EMPRESS',
     'Hogwarts.Legacy.Deluxe.Edition-EMPRESS',
     'Monster.Hunter.Rise.Sunbreak-EMPRESS',
@@ -38,6 +39,7 @@ const games = [
 ];
 
 const nfoLinks = [
+    'https://nfomation.net/info/1684077256.EMPRESS.nfo', // Resident Evil 4 Remake
     'https://nfomation.net/info/1681489866.EMPRESS.nfo', // Assassin's Creed Valhalla Complete Edition
     'https://nfomation.net/info/1677131115.EMPRESS.nfo', // Hogwarts Legacy
     'https://nfomation.net/info/1676962149.EMPRESS.nfo', // Monster Hunter Rise Sunbreak
