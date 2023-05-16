@@ -1,5 +1,5 @@
 const games = [
-    'Mortal.Kombat.11-EMPRESS',
+    'Resident.Evil.4.Remake-EMPRESS',
     'Assassins.Creed.Valhalla.Complete.Edition-EMPRESS',
     'Hogwarts.Legacy.Deluxe.Edition-EMPRESS',
     'Monster.Hunter.Rise.Sunbreak-EMPRESS',
@@ -13,9 +13,9 @@ const games = [
     'Far.Cry.6-EMPRESS',
     'Deathloop.Crackfix-EMPRESS',
     'Deathloop-EMPRESS',
+    'Tom.Clancys.Ghost.Reacon.Wildlands.Complete.Editon-EMPRESS',
     'Tom.Clancys.Ghost.Recon.Wildlands.Complete.Edition.Crackfix-EMPRESS',
     'Red.Dead.Redemption.2.Build.1436.28-EMPRESS+Mr_Goldberg',
-    'Tom.Clancys.Ghost.Reacon.Wildlands.Complete.Editon-EMPRESS',
     'Watchs.Dogs.Legion-EMPRESS',
     'Forza.Horizon.5.PROPER-EMPRESS',
     'Doom.Eternal.The.Ancient.Gods-EMPRESS',
@@ -30,50 +30,52 @@ const games = [
     'Planet.Coaster.Complete.Edition-EMPRESS',
     'Jurassic.World.Evolution.Complete.Edition-EMPRESS',
     'Crash.Bandicoot.4-EMPRESS',
-    'Assassins.Creed.Valhalla.Repack-EMPRESS',
     'Forza.Horizon.4.PROPER-EMPRESS',
+    'Assassins.Creed.Valhalla.Repack-EMPRESS',
     'Immortals.Fenyx.Rising.Crackfix.V2-EMPRESS',
     'Just.Cause.4.Complete.Edition.READNFO-EMPRESS',
     'Immortals.Fenyx.Rising-EMPRESS',
+    'Mortal.Kombat.11-EMPRESS',
 ];
 
 const nfoLinks = [
-    'https://nfomation.net/info/1682008157.EMPRESS.nfo',
-    'https://nfomation.net/info/1681489866.EMPRESS.nfo',
-    'https://nfomation.net/info/1677131115.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962149.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962178.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962191.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962202.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962212.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962222.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962235.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962247.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962257.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962269.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962281.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962292.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962302.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962312.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962344.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962355.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962365.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962376.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962388.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962451.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962462.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962473.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962482.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962492.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962501.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962512.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962522.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962533.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962543.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962553.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962563.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962573.EMPRESS.nfo',
-    'https://nfomation.net/info/1676962582.EMPRESS.nfo',
+    'https://nfomation.net/info/1684077256.EMPRESS.nfo', // Resident Evil 4 Remake
+    'https://nfomation.net/info/1681489866.EMPRESS.nfo', // Assassin's Creed Valhalla Complete Edition
+    'https://nfomation.net/info/1677131115.EMPRESS.nfo', // Hogwarts Legacy
+    'https://nfomation.net/info/1676962149.EMPRESS.nfo', // Monster Hunter Rise Sunbreak
+    'https://nfomation.net/info/1676962178.EMPRESS.nfo', // Dragon Ball FighterZ
+    'https://nfomation.net/info/1676962191.EMPRESS.nfo', // Maneater
+    'https://nfomation.net/info/1676962202.EMPRESS.nfo', // Dying Light 2 Crack Enhancement
+    'https://nfomation.net/info/1676962212.EMPRESS.nfo', // Dying Light 2
+    'https://nfomation.net/info/1676962222.EMPRESS.nfo', // Marvel's Guardians of the Galaxy Crackfix
+    'https://nfomation.net/info/1676962235.EMPRESS.nfo', // Marvel's Guardians of the Galaxy
+    'https://nfomation.net/info/1676962247.EMPRESS.nfo', // Evil Genius 2
+    'https://nfomation.net/info/1676962257.EMPRESS.nfo', // Far Cry 6
+    'https://nfomation.net/info/1676962269.EMPRESS.nfo', // Deathloop Crackfix
+    'https://nfomation.net/info/1676962281.EMPRESS.nfo', // Deathloop
+    'https://nfomation.net/info/1676962312.EMPRESS.nfo', // Tom Clacy Ghost Reacon Wildlands Complete Edition
+    'https://nfomation.net/info/1676962292.EMPRESS.nfo', // Tom Clancy Ghost Reacon Wildlands Complete Edition Crackfix
+    'https://nfomation.net/info/1676962302.EMPRESS.nfo', // Red Dead Redemption 2 Build 1436 28
+    'https://nfomation.net/info/1676962344.EMPRESS.nfo', // Watch Dogs Legion
+    'https://nfomation.net/info/1676962355.EMPRESS.nfo', // Forza Horizon 5 PROPER
+    'https://nfomation.net/info/1676962365.EMPRESS.nfo', // Doom Eternal The Ancient Gods
+    'https://nfomation.net/info/1676962376.EMPRESS.nfo', // Total War Warhammer II The Silence and the Fury
+    'https://nfomation.net/info/1676962388.EMPRESS.nfo', // Star Wars Battlefront II Celebration Edition
+    'https://nfomation.net/info/1676962462.EMPRESS.nfo', // Resident Evil Village
+    'https://nfomation.net/info/1676962451.EMPRESS.nfo', // Resident Evil Village Animation Fix
+    'https://nfomation.net/info/1676962473.EMPRESS.nfo', // Yakuza Like A Dragon
+    'https://nfomation.net/info/1676962482.EMPRESS.nfo', // Left Alive
+    'https://nfomation.net/info/1676962501.EMPRESS.nfo', // Life is Strange 2 Complete Edition
+    'https://nfomation.net/info/1676962492.EMPRESS.nfo', // Life is Strange 2 Complete Edition Crackfix
+    'https://nfomation.net/info/1676962512.EMPRESS.nfo', // Planet Coaster Complete Edition
+    'https://nfomation.net/info/1676962522.EMPRESS.nfo', // Jurassic World Evolution Complete Edition
+    'https://nfomation.net/info/1676962533.EMPRESS.nfo', // Crash Bandicoot 4
+    'https://nfomation.net/info/1676962553.EMPRESS.nfo', // Forza Horizon 4 PROPER
+    'https://nfomation.net/info/1676962543.EMPRESS.nfo', // Assassin's Creed Valhalla
+    'https://nfomation.net/info/1676962563.EMPRESS.nfo', // Immortals Fenyx Rising Crackfix V2
+    'https://nfomation.net/info/1676962573.EMPRESS.nfo', // Just Cause 4 Complete Edition
+    'https://nfomation.net/info/1676962582.EMPRESS.nfo', // Immortals Fenyx Rising
+    'https://nfomation.net/info/1682008157.EMPRESS.nfo', // Mortal Kombat 11
 ];
 
 const container = document.querySelector('.container');
