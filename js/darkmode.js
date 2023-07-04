@@ -15,6 +15,7 @@ logo.addEventListener('click', () => {
 
         body.style['background-color'] = '#F1ECE4';
         body.style['color'] = '#000';
+        body.style['color-scheme'] = 'dark';
 
         header.style['background-color'] = '#dfd2c0';
         footer.style['background-color'] = '#dfd2c0';
@@ -39,6 +40,7 @@ logo.addEventListener('click', () => {
 
         body.style['background-color'] = '#141518';
         body.style['color'] = '#fff';
+        body.style['color-scheme'] = 'light';
 
         header.style['background-color'] = '#333';
         footer.style['background-color'] = '#333';
